@@ -249,7 +249,7 @@ map.on("load", () => {
     // Learn more about where to find a tileset id:
     // https://docs.mapbox.com/help/glossary/tileset-id/
     // https://github.com/mapnik/node-mapnik/issues/707#issuecomment-408474671
-    data: "library/geodata/BCN_B_M_2.geojson",
+    data: "library/geodata/BCN_data.geojson",
     generateId: true,
     // mode: "no-cors",
     // url: "mapbox://heshamshawqy.a8akk9ft",
@@ -452,7 +452,7 @@ map.on("load", () => {
       // Learn more about where to find a tileset id:
       // https://docs.mapbox.com/help/glossary/tileset-id/
       // https://github.com/mapnik/node-mapnik/issues/707#issuecomment-408474671
-      data: "library/geodata/BCN_B_M_2.geojson",
+      data: "library/geodata/BCN_data.geojson",
       generateId: true,
       // mode: "no-cors",
       // url: "mapbox://heshamshawqy.a8akk9ft",
